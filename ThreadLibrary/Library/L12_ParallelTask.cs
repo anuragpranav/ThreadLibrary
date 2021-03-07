@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ThreadLibrary.Library
 {
-    public class L02_BackgroudThread
+    public class L12_ParallelTask
     {
         public static void Logic()
         {

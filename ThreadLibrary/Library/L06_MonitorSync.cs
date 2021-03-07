@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace ThreadLibrary.Library
 {
-    class L06_MonitorSync
+    public class L06_MonitorSync
     {
+        public static void Logic()
+        {
+
+        }
     }
 }

@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace ThreadLibrary.Library
 {
-    class L04_ThreadPool
+    public class L04_ThreadPool
     {
+        public static void Logic()
+        {
+
+        }
     }
 }

@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace ThreadLibrary.Library
 {
-    class L08_AutomaticResetEventSync
+    public class L08_AutomaticResetEventSync
     {
+        public static void Logic()
+        {
+
+        }
     }
 }

@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace ThreadLibrary.Library
 {
-    class L09_MutexSync
+    public class L09_MutexSync
     {
+        public static void Logic()
+        {
+
+        }
     }
 }

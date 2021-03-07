@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace ThreadLibrary.Library
 {
-    class L10_SemaphoreSync
+    public class L10_SemaphoreSync
     {
+        public static void Logic()
+        {
+
+        }
     }
 }

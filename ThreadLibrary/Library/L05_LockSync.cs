@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace ThreadLibrary.Library
 {
-    class L05_LockSync
+    public class L05_LockSync
     {
+        public static void Logic()
+        {
+
+        }
     }
 }

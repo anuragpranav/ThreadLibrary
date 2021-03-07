@@ -53,6 +53,8 @@
     <Compile Include="Library\L07_ManualResetEventSync.cs" />
     <Compile Include="Library\L08_AutomaticResetEventSync.cs" />
     <Compile Include="Library\L09_MutexSync.cs" />
+    <Compile Include="Library\L11_AwaitAsync.cs" />
+    <Compile Include="Library\L12_ParallelTask.cs" />
     <Compile Include="Startup.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
